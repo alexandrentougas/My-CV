@@ -1,0 +1,107 @@
+.page {
+  padding: 40px;
+  width: 780px;
+  margin: auto;
+  font-size: 16px;
+  font-family: Georgia, Helvetica, tahoma, Calibri, sans-serif;
+  border: 5px solid #1E2A2D;
+  border-radius: 10px;
+  box-shadow: 2px 4px 3px black;
+  background-color: #EEDFA6
+
+}
+
+body {
+background-color: #CCCCCC;
+}
+
+.InfoPic {
+  height:200px;
+}
+
+.Info {
+  float: left;
+  text-align:center;
+}
+
+.Pic {
+  float: right;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.section {
+  margin-bottom: 60px;
+  text-align:justify;
+}
+
+.left-sec {
+  float: left;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.right-sec {
+  margin-left: 200px;
+  margin-top: 37px;
+}
+
+strong {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 28px;
+  color: #208075;
+  text-transform: uppercase;
+  border-bottom: 3px solid #208075;
+}
+
+.Duration {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.position {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#left-format p{
+  margin-bottom: 37px;
+}
+
+#left-exp p {
+  margin-bottom: 37px;
+}
+
+#right-exp p {
+  padding-bottom: 10px;
+}
+
+#right-lang p {
+  padding-top: 9px;
+}
+
+#left-other p {
+  margin-bottom: 37px;
+}
+
+#right-other p {
+  padding-bottom: 6px;
+}
+
+a {
+  color:black;
+}
+
+a:visited .fa {
+  color: black;
+}
+
+a:hover .fa {
+  color:#208075;
+}
