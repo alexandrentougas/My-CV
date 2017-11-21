@@ -4,15 +4,14 @@
   margin: auto;
   font-size: 16px;
   font-family: Georgia, Helvetica, tahoma, Calibri, sans-serif;
-  border: 5px solid #1E2A2D;
+  border: 5px solid #208075;
   border-radius: 10px;
   box-shadow: 2px 4px 3px black;
-  background-color: #EEDFA6
-
+  background-color: #EEDFA6;
 }
 
 body {
-background-color: #CCCCCC;
+background: linear-gradient(to right top, #11242D, #1E242D);
 }
 
 .InfoPic {
@@ -30,6 +29,11 @@ background-color: #CCCCCC;
 
 img {
   border-radius: 10px;
+}
+
+a .fa {
+  font-size:36px;
+  margin-right: 20px;
 }
 
 .section {
